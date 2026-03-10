@@ -1,0 +1,15 @@
+{
+  "name": "さんすうおやつだいぼうけん",
+  "short_name": "さんすう",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7FFF7",
+  "theme_color": "#FF6B6B",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0iI0YzOUMxMiIvPjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
